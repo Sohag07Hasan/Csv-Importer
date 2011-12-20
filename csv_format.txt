@@ -1,0 +1,7 @@
+category, post_title, Price, Size Info/square feet, Landlord, Landlord Representative, Tenant/buyer, Tentant Representative, Full Address, Notes
+
+
+category : 
+	olease -> office
+	rlease -> retail
+	csales -> commercial
